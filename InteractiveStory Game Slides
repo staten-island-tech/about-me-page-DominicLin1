@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:57:01.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7PwMia3QcCvrgMplMp4b" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T15:15:57.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="X4d3mgQ6p4P3y_oDMB7j" version="20.8.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-34" value="Whalen catches you and&lt;br&gt;&amp;nbsp;makes fun of you. You then &lt;br&gt;have two choices." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="300" width="180" height="140" as="geometry" />
+          <mxGeometry x="160" y="230" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-35" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;You feel bored today.&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -16,50 +16,50 @@
             <mxPoint x="340" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-42">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-42" target="g_yJl5I7_BJ4siQ2LOA5-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="160" as="sourcePoint" />
             <mxPoint x="277.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="382" y="160" as="sourcePoint" />
             <mxPoint x="401.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-41">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=1.033;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-41" source="g_yJl5I7_BJ4siQ2LOA5-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="424" y="260" as="sourcePoint" />
             <mxPoint x="427" y="299.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-34">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=1;exitDx=0;exitDy=0;entryX=0.261;entryY=0.207;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-34" source="g_yJl5I7_BJ4siQ2LOA5-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="255" y="260" as="sourcePoint" />
             <mxPoint x="257.03999999999996" y="300.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-41" value="Whalen questions your taste but moves on.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-42" value="You decided to&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;play music." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="100" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-43" value="Plays normal&amp;nbsp;&lt;br&gt;music." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-44" value="Plays French&lt;br&gt;music." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-34">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.638;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-34" target="g_yJl5I7_BJ4siQ2LOA5-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="470" as="sourcePoint" />
             <mxPoint x="138.92000000000007" y="460.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-46" value="Accept your fate and&amp;nbsp;&lt;br&gt;wait for the final&amp;nbsp;&lt;br&gt;judgement." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="450" width="150" height="80" as="geometry" />
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-46" value="Accept your fate and&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;wait for the final&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;judgement." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-34" target="g_yJl5I7_BJ4siQ2LOA5-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,17 +67,17 @@
             <mxPoint x="450" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-46">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-46" target="g_yJl5I7_BJ4siQ2LOA5-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="374" y="610" as="sourcePoint" />
             <mxPoint x="385" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-49" value="Whalen decides to play Japanese Christmas music as punishment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-50" value="Denies everything&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;in an attempt to&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;save yourself&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;from embarrassment." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="460" width="260" height="100" as="geometry" />
+          <mxGeometry y="350" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-49" target="g_yJl5I7_BJ4siQ2LOA5-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,16 +86,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-52" value="GAME OVER." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-50" target="g_yJl5I7_BJ4siQ2LOA5-54">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.858;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-50" target="g_yJl5I7_BJ4siQ2LOA5-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="620" as="sourcePoint" />
             <mxPoint x="40" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-54" value="Explain that the French music&lt;br&gt;is good." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.392;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-50" target="g_yJl5I7_BJ4siQ2LOA5-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,8 +103,8 @@
             <mxPoint x="220" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-56" value="Starts freaking out&lt;br&gt;because Whalen exerts too much&amp;nbsp;&lt;br&gt;pressure." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="610" width="210" height="60" as="geometry" />
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-56" value="Accept your fate and&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;wait for the final&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;judgement." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-56" target="g_yJl5I7_BJ4siQ2LOA5-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-59" value="You have two&amp;nbsp;&lt;br&gt;choices to&lt;br&gt;explain yourself." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="670" width="160" height="80" as="geometry" />
+          <mxGeometry x="-70" y="570" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-59" target="g_yJl5I7_BJ4siQ2LOA5-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,16 +128,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-61" value="Explains that your&lt;br&gt;a League player so everything&lt;br&gt;is normal in your brain." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="760" width="210" height="60" as="geometry" />
+          <mxGeometry x="-30" y="655" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.269;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-59" target="g_yJl5I7_BJ4siQ2LOA5-63">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.144;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-59" target="g_yJl5I7_BJ4siQ2LOA5-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="800" as="sourcePoint" />
             <mxPoint x="-160" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-63" value="Tries to pretend like&lt;br&gt;nothing happened in a futile attempt to gaslight Whalen." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="760" width="180" height="60" as="geometry" />
+          <mxGeometry x="-210" y="655" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.471;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-61" target="g_yJl5I7_BJ4siQ2LOA5-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-65" value="Whalen decides to search League songs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-15" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-15" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-65" target="g_yJl5I7_BJ4siQ2LOA5-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-67" value="Whalen finds &quot;KDA&quot; and decides to play it everyday." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-15" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-15" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g_yJl5I7_BJ4siQ2LOA5-67" target="g_yJl5I7_BJ4siQ2LOA5-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -164,24 +164,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_yJl5I7_BJ4siQ2LOA5-69" value="GAME OVER." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-15" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="-15" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-63">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="1110" as="sourcePoint" />
-            <mxPoint x="-145" y="930" as="targetPoint" />
+            <mxPoint x="-120" y="980" as="sourcePoint" />
+            <mxPoint x="190" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.447;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="1110" as="sourcePoint" />
-            <mxPoint x="160" y="1100" as="targetPoint" />
+            <mxPoint x="190" y="980" as="sourcePoint" />
+            <mxPoint x="240" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.471;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-56">
+        <mxCell id="g_yJl5I7_BJ4siQ2LOA5-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0.594;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g_yJl5I7_BJ4siQ2LOA5-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1100" as="sourcePoint" />
-            <mxPoint x="220" y="1050" as="targetPoint" />
+            <mxPoint x="-120" y="980" as="sourcePoint" />
+            <mxPoint x="-70" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
